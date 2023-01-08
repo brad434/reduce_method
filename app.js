@@ -1,4 +1,5 @@
 //Lesson on REDUCE
+
 //const nums = [20,30,50,12,-2,45,99,19,22,85];
 //finding the sum without reduce method
 let total = 0;
